@@ -15,5 +15,6 @@ public class MainClass {
     public static void main(String[] args) {
         CollaborationExample.collaboration();
         AntonioConde.main(args);
+        AntonioGuerraVazquez.main(args);
     }
 }
