@@ -18,5 +18,6 @@ public class MainClass {
         AntonioConde.main(args);
         AntonioGuerraVazquez.main(args);
         NathyaraCorral.main(args);
+        DanielFernandez.hola();
     }
 }
