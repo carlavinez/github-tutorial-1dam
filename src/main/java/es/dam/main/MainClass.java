@@ -16,5 +16,6 @@ public class MainClass {
         CollaborationExample.collaboration();
         AntonioConde.main(args);
         AntonioGuerraVazquez.main(args);
+        NathyaraCorral.main(args);
     }
 }
